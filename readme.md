@@ -1,7 +1,27 @@
 ---
 noteId: "5aa06120655d11f1a5ba4fdf1c52880e"
-tags: []
-
+[
+  "artificial-intelligence",
+  "machine-learning",
+  "deep-learning",
+  "mathematics",
+  "data-science",
+  "computer-vision",
+  "natural-language-processing",
+  "reinforcement-learning",
+  "generative-ai",
+  "large-language-models",
+  "llm",
+  "ai-agents",
+  "mlops",
+  "roadmaps",
+  "learning-path",
+  "career-roadmap",
+  "education",
+  "research",
+  "open-source",
+  "mlverse"
+]
 ---
 
 # 🛣️ MLVerse-Math Roadmaps
